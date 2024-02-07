@@ -1,7 +1,7 @@
 - 👋 Hello, I'm @NhutTruong-QN
 - 👀 I am interested in programming languages ​​such as Python, C#, Java
 - 🌱 Currently I am studying Dong Thap University
-- 💞️ Strong languages: Python, C#
+- 💞️ Strong languages: https://www.python.org/ , https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/ 
 
 
 <!---
